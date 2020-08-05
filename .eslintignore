@@ -1,0 +1,6 @@
+**/node_modules/**
+**/components/LayoutComponents/**
+**/modules/DefaultPages/**
+**/src/ducks/**
+**/src/react-uikit/**
+*.test.js

@@ -1,0 +1,9 @@
+.ant-layout {
+  min-height: 100vh !important;
+  &-content {
+    .utils__content {
+      height: 100%;
+      padding-bottom: 0 !important;
+    }
+  }
+}
